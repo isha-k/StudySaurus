@@ -1,5 +1,5 @@
 # StudySaurus
-Swift iOS study app - *CURRENTLY IN DEVELOPMENT* I'm looking forward to launching soon so stay tuned!!
+Swift iOS study app
 
 <h1 align="center" id="title">3D Portfolio</h1>
 
